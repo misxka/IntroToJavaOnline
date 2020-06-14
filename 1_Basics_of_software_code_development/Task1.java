@@ -1,7 +1,6 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import static java.lang.Math.*;
 
 public class Task1 {
     public static void main(String[] args) throws IOException {
