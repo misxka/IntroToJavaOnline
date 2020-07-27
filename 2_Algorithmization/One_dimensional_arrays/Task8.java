@@ -1,6 +1,6 @@
 import java.io.IOException;
 
-public class Main {
+public class Task8 {
     public static void main(String args[]) throws IOException {
         int array[] = {12, 13, 14, 15, 16, 17, 18, 19, 20, 21};
         int min = array[0];
