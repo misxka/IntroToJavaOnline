@@ -17,7 +17,7 @@ public class Task3 {
         do {
             k = Integer.parseInt(reader.readLine());
             p = Integer.parseInt(reader.readLine());
-        } while(k > n || p > m);
+        } while(k > n || p > m || k < 1 || p < 1);
         for (int i = 0; i < n; i++) {
             if(i == k - 1) {
                 for (int j = 0; j < m; j++) {
